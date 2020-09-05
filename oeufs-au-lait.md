@@ -21,3 +21,5 @@ Directions:
 Notes:
 
 * Using a cold oven helps to get a silky smooth texture, rather than curdling the custard.
+
+![oeufs au lait](./pics/oeufs-au-lait.jpg)
