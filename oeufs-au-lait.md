@@ -15,11 +15,11 @@ Directions:
 
 1. Boil 1 quart of Half & Half milk with some sugar (6 Tablespoons) and vanilla, and let cool a bit
 2. In a flat oven dish, whisk 6 eggs, then add the warm milk while stirring
-3. Stick into a cold oven, set to 350F (180c) until browning on top (20-40 minutes?)
+3. Stick into the oven (no need to preheat), set to 350F (180c) until browning on top (20-40 minutes?)
 4. Chill and enjoy
 
 Notes:
 
-* Using a cold oven helps to get a silky smooth texture, rather than curdling the custard.
+* Not preheating the oven helps to get a silky smooth texture, rather than curdling the custard.
 
 ![oeufs au lait](./pics/oeufs-au-lait.jpg)
