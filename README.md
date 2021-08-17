@@ -1,3 +1,6 @@
+# Salads
+* [Salade Niçoise](salade-nicoise.md)
+
 # Desserts
 
 * [Gâteau normand aux pommes (Norman apple cake)](gateau-normand-aux-pommes.md)
