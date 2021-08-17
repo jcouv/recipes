@@ -22,3 +22,6 @@ Directions:
 2. Cut the cooled beans
 3. Make the dressing: Dijon mustard, red vinegar, olive oil (no salt necessary since salad toppings are salty)
 4. Assemble :-)
+
+![salade-nicoise](pics/salade-nicoise.jpg)
+
