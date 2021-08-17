@@ -17,11 +17,11 @@ Ingredients:
 
 Directions:
 
-0. Boil the green beans
-1. Cut and boil the potatoes (can re-use the pot and water)
-2. Cut the cooled beans
-3. Make the dressing: Dijon mustard, red vinegar, olive oil (no salt necessary since salad toppings are salty)
-4. Assemble :-)
+1. Boil the green beans
+2. Cut and boil the potatoes (can re-use the pot and water)
+3. Cut the cooled beans
+4. Make the dressing: Dijon mustard, red vinegar, olive oil (no salt necessary since salad toppings are salty)
+5. Assemble :-)
 
 ![salade-nicoise](pics/salade-nicoise.jpg)
 
