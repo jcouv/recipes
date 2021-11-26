@@ -31,6 +31,6 @@ Directions (béchamel sauce):
 Directions (gratin):
 
 1. Cook the macaronis (al dente)
-2. Dice and cook onions
+2. Dice and cook onions with a little olive oil
 3. In an oven-ready dish, mix the macaronis, onions, sliced ham and olives, béchamel sauce
-4. Top with cheese and leave at least 20 minutes in 370F oven until cheese is golden
+4. Top with cheese and drizzle of olive oil, then leave at least 20 minutes in 370F oven until cheese is golden
