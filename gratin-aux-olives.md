@@ -26,6 +26,8 @@ Directions (béchamel sauce):
 4. Bring the sauce to a simmer (a couple of bubbles)
 5. Add salt and pepper
 
+(see [Chef John](https://youtu.be/Tvv74RJd6AA))
+
 Directions (gratin):
 
 1. Cook the macaronis (al dente)
