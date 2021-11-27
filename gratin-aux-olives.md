@@ -13,7 +13,6 @@ Ingredients (béchamel sauce):
 Ingredients (gratin):
 
 * 500g macaronis
-* 1 onion
 * 4 slices of ham
 * 1 jar of green olives
 * 2 cups shredded cheese (mozarella or swiss)
@@ -31,6 +30,5 @@ Directions (béchamel sauce):
 Directions (gratin):
 
 1. Cook the macaronis (al dente)
-2. Dice and cook onions with a little olive oil
-3. In an oven-ready dish, mix the macaronis, onions, sliced ham and olives, béchamel sauce
-4. Top with cheese and drizzle of olive oil, then leave at least 20 minutes in 370F oven until cheese is golden
+2. In an oven-ready dish, mix the macaronis, sliced ham and olives, béchamel sauce
+3. Top with cheese and drizzle of olive oil, then leave at least 20 minutes in 370F oven until cheese is golden
