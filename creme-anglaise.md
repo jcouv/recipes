@@ -16,3 +16,5 @@ Directions:
 2. Set heat just below medium and keep stiring the bottom with a spatula
 3. Remove from heat when the cream thickens a bit (ie. slightly darker streaks start to appear, coats back of a spoon and hold a finger mark). Temp 180F/81c
 4. Strain and cool
+
+(From [Chef John](https://youtu.be/hVnomF2plSA))
