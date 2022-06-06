@@ -8,6 +8,7 @@
 
 * [Gâteau normand aux pommes (Norman apple cake)](gateau-normand-aux-pommes.md)
 * [Oeufs au lait (eggs with milk)](oeufs-au-lait.md)
+* [Crème anglaise](creme-anglaise.md)
 
 # Misc
 
