@@ -17,6 +17,7 @@ Flan parisien
 6. Butter and power a mould with cornstarch
 7. Once cooled, the cream will be rubbery, it needs to be stirred back into a fluid
 8. Pour it into the mould and make it smooth
-9. Stick in oven (375F)
+9. Stick in oven (350F) for 30 minutes or until a brown crust forms
+10. Let it cool completely
 
 https://youtu.be/llq-l50KpFE
