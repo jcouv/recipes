@@ -8,13 +8,13 @@ Ingredients:
 
 * 1 quart Half & Half milk
 * 6 eggs
-* 6 Tablespoons sugar
+* 6 Tablespoons sugar (this is on the low end)
 * vanilla extract
 
 Directions:
 
 1. Boil 1 quart of Half & Half milk with some sugar (6 Tablespoons) and vanilla, and let cool a bit
-2. In a flat oven dish, whisk 6 eggs, then add the warm milk while stirring
+2. In a flat oven dish, whisk 6 eggs, then slowly add the warm milk while stirring
 3. Stick into the oven (no need to preheat), set to 350F (180c) until browning on top (20-40 minutes?)
 4. Chill and enjoy
 
