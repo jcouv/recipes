@@ -7,7 +7,7 @@ Gratin aux olives
 Ingredients (béchamel sauce):
 
 * 1 stick of butter (unsalted, 0.5 cup)
-* 0.5 cup of flour
+* 0.5 cup of flour (note: this is less than traditional 1-to-1 ratio by weight of butter)
 * 1 quart of whole milk
 
 Ingredients (gratin):
