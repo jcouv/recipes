@@ -7,7 +7,7 @@ Ingredients:
 * 2 cups/bags of frozen raspberries
 * 1 small container of fresh raspberries
 * 1 cup of heavy whipping cream
-* 1/3 cup sugar
+* 1/3 to 1/2 cup sugar
 * 1 packet of unflavored gelatin
 * dash of lemon juice
 * mint (optional)
