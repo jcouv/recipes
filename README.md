@@ -1,5 +1,6 @@
 # Entrée
 * [Gratin aux olives](gratin-aux-olives.md)
+* [Ratatouille](ratatouille.md)
 
 # Salads
 * [Salade Niçoise](salade-nicoise.md)
