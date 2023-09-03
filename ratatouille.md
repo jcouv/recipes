@@ -6,7 +6,7 @@ Ratatouille
 
 Ingredients:
 
-* 1 eggplant
+* 1 eggplant (dot not slot)
 * 2 zucchinis (or squash)
 * 2 bell peppers (yellow and red)
 * 1 small carton of sliced mushrooms
