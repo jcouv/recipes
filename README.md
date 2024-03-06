@@ -4,6 +4,7 @@
 
 # Salads
 * [Salade Niçoise](salade-nicoise.md)
+* [Vietnamese salad](vietnamese-salad.md)
 
 # Desserts
 
