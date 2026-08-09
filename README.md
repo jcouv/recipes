@@ -1,10 +1,12 @@
 # Entrée
 * [Gratin aux olives](gratin-aux-olives.md)
 * [Ratatouille](ratatouille.md)
+* [Gigot d'agneau](gigot-d-agneau.md)
 
 # Salads
 * [Salade Niçoise](salade-nicoise.md)
 * [Vietnamese salad](vietnamese-salad.md)
+* [Salade Grecque](salade-grecque.md)
 
 # Desserts
 
