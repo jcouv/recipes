@@ -17,6 +17,6 @@ Directions:
 2. peel the onions and split them at equator
 3. load the lamb and onions into a large dish, with half a cup of broth or water
 4. cook for 20 minutes at 465F, then lower to 390F
-3. dice the potatoes (1-2 inch cubes) and add them when the lamb's internal temperature is around 100F
-4. for medium-rare, remove the lamb when it reaches 130F.
+3. dice the potatoes (1-2 inch cubes) and add them when the lamb's internal temperature is around 95F
+4. for medium-rare, remove the lamb when it reaches 125F.
 5. depending on whether the potatoes are cooked enough, remove the lamb separately
